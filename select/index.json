@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "POP STAR",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-01-06T15:02:40.119134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pop Star",
+      "artist": "Cat Stevens",
+      "has_synced": false,
+      "path": "select/01_Pop_Star_Cat_Stevens.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "POP STAR (feat. Kevin Gates)",
+      "artist": "DaBaby feat. Kevin Gates",
+      "has_synced": true,
+      "path": "select/02_POP_STAR_(feat._Kevin_Gates)_DaBaby_feat._Kevin_Gates.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "POP STAR (feat. Kevin Gates)",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/03_POP_STAR_(feat._Kevin_Gates)_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talkin' Pop Star Blues",
+      "artist": "Donovan",
+      "has_synced": false,
+      "path": "select/04_Talkin'_Pop_Star_Blues_Donovan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No One Likes A Fat Pop Star",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/05_No_One_Likes_A_Fat_Pop_Star_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "POP STAR",
+      "artist": "DaBaby feat. Kevin Gates",
+      "has_synced": true,
+      "path": "select/06_POP_STAR_DaBaby_feat._Kevin_Gates.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pop Star",
+      "artist": "Coco & Clair Clair",
+      "has_synced": true,
+      "path": "select/07_Pop_Star_Coco_&_Clair_Clair.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "POP STAR",
+      "artist": "Leo Ieiri",
+      "has_synced": false,
+      "path": "select/08_POP_STAR_Leo_Ieiri.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "POP STAR",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/09_POP_STAR_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": true,
+      "path": "select/10_POP_STAR_平井_堅.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "POP STAR",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/11_POP_STAR_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pop Star",
+      "artist": "Cat Stevens",
+      "has_synced": false,
+      "path": "select/12_Pop_Star_Cat_Stevens.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pop Star",
+      "artist": "LUCKI",
+      "has_synced": true,
+      "path": "select/13_Pop_Star_LUCKI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pop Star",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/14_Pop_Star_Kara.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pop In My Step",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/15_Pop_In_My_Step_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pop in My Step",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/16_Pop_in_My_Step_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mine - POP Mix",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_Mine_-_POP_Mix_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mine (POP Mix)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/18_Mine_(POP_Mix)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/19_Pop_a_Top_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/20_Pop_a_Top_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Jim Ed Brown",
+      "has_synced": false,
+      "path": "select/21_Pop_a_Top_Jim_Ed_Brown.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Jim Ed Brown & The Browns",
+      "has_synced": false,
+      "path": "select/22_Pop_a_Top_Jim_Ed_Brown_&_The_Browns.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Chocolate Love (Retro Pop Version)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/23_Chocolate_Love_(Retro_Pop_Version)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Chocolate Love (Retro Pop Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/24_Chocolate_Love_(Retro_Pop_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Pop Off!",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/25_Pop_Off!_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Pop Off! (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/26_Pop_Off!_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Pop Style",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/27_Pop_Style_Drake.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Pop Style",
+      "artist": "Drake feat. The Throne",
+      "has_synced": true,
+      "path": "select/28_Pop_Style_Drake_feat._The_Throne.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Pop Style (feat. The Throne)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/29_Pop_Style_(feat._The_Throne)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dancing With the Big Boys (with Iggy Pop)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/30_Dancing_With_the_Big_Boys_(with_Iggy_Pop)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Pop That Pussy",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/31_Pop_That_Pussy_The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POP STAR×fake star(MASH UP version)",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_POP_STAR×fake_star(MASH_UP_version)_平井_堅.txt"
+    }
+  ]
+}
