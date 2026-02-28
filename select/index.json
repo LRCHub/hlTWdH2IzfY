@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "POP STAR",
-  "base_artist": "平井　堅",
-  "createdAt": "2026-02-22T17:34:53.659133Z",
+  "base_track": "Pop Star",
+  "base_artist": "Ken Hirai",
+  "createdAt": "2026-02-28T13:22:03.269085Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -259,6 +259,78 @@
       "artist": "平井 堅",
       "has_synced": false,
       "path": "select/pl_01_POP_STAR×fake_star(MASH_UP_version)_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_02_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_03_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "POP STAR [Live]",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_04_POP_STAR_[Live]_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_05_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_06_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_07_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_08_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_09_POP_STAR_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "POP STAR",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_10_POP_STAR_平井_堅.txt"
     }
   ]
 }
